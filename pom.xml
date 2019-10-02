@@ -15,7 +15,7 @@
 
     <build>
         <defaultGoal>clean package install</defaultGoal>
-        <finalName>CratesPlus-${project.version}</finalName>
+        <finalName>CratesPlus-pandamonium-${project.version}</finalName>
         <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
         <resources>
             <resource>
